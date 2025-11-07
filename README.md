@@ -1,7 +1,7 @@
 # mindbuzzgames.github.io
 A public information site for the quiz app development company Mindbuzz Games.
 
-**Company Information**
+**Company Information**  
 Organization name  
 Lucky Nails Korlátolt Felelősségű Társaság  
 DUNS: 30-175-4464  
