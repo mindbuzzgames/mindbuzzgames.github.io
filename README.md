@@ -1,5 +1,5 @@
 # mindbuzzgames.github.io
-A public information site for the quiz app development company Mindbuzz Games.
+This is a contact information and privacy policy site for the quiz app development company Mindbuzz Games.
 
 **Company Information**  
 Organization name  
