@@ -2,19 +2,19 @@
 A public information site for the quiz app development company Mindbuzz Games.
 
 **Company Information**
-Organization name
-Lucky Nails Korlátolt Felelősségű Társaság
-DUNS: 30-175-4464
-
-Organization address
-Podmaniczky utca 57. 2. em. 14. ajtó
-Budapest - 1064
-Hungary (HU)
-
-Contact person
-Nikolett Varadi
-mindbuzzgames@gmail.com
-
+Organization name  
+Lucky Nails Korlátolt Felelősségű Társaság  
+DUNS: 30-175-4464  
+  
+Organization address  
+Podmaniczky utca 57. 2. em. 14. ajtó  
+Budapest - 1064  
+Hungary (HU)  
+  
+Contact person  
+Nikolett Varadi  
+mindbuzzgames@gmail.com  
+  
 
 **Privacy Policy**
 
